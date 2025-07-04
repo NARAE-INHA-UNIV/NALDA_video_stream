@@ -31,7 +31,7 @@ Qt6은 영상송출을 편리하기 위해 QtMultiMedia 모듈이 존재한다.
 
 Qt에 Cmake(또는 qmake)로 직접 Gstreamer Plugin들을 설정하여 GStreamer 코딩을 하는 것 보다
 
-그냥 Qt측에서 제공하는 QtMultiMedia를 잘 활용하여 코딩하는 것이 에러,안정성,편리함 등 모든 차원에서 훨씬 좋았다. 
+그냥 Qt측에서 제공하는 QtMultiMedia를 잘 활용하여 코딩하는 것이 편리함과 정보, 에러 발생 빈도 등 모든 차원에서 훨씬 좋았다. 
 
 또 Qt 6.2부터는 QML에서 기존의 MediaPlayer, VideoOutput 컴포넌트 둘을 통합하여 Video 컴포넌트로 단순화하였는데, 이게 사용하기 더 쉬웠다. 
 
