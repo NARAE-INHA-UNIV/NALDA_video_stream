@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/js357/QtProject/multiMediaTest
+-cmake-output
+-output-file
+C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appGcsVideoStream_conf.cmake
+-importPath
+C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GcsVideoStream
+-importPath
+C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_GcsVideoStream.qrc
+C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appGcsVideoStream_raw_qml_0.qrc

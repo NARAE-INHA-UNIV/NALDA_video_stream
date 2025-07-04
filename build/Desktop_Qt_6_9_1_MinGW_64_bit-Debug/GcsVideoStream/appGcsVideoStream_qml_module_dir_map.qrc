@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/GcsVideoStream">C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GcsVideoStream</file>
+
+  </qresource>
+</RCC>

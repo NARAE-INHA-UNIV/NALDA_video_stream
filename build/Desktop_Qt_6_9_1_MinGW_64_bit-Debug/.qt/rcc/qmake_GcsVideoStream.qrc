@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/GcsVideoStream">
+    <file alias="qmldir">C:/Users/js357/QtProject/multiMediaTest/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GcsVideoStream/qmldir</file>
+  </qresource>
+</RCC>
+

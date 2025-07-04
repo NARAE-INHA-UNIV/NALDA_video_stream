@@ -1,0 +1,5 @@
+module multiMediaTest
+typeinfo appmultiMediaTest.qmltypes
+prefer :/qt/qml/multiMediaTest/
+Main 1.0 Main.qml
+
