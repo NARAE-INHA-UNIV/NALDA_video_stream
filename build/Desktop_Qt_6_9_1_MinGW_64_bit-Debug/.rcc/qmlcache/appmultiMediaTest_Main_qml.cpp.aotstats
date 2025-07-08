@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 18
+                    }
+                ],
+                "filePath": "C:/Users/js357/QtProject/multiMediaTest/Main.qml"
+            }
+        ],
+        "moduleId": "multiMediaTest(appmultiMediaTest)"
+    }
+]

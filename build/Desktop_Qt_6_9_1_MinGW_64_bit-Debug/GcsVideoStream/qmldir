@@ -1,0 +1,5 @@
+module GcsVideoStream
+typeinfo appGcsVideoStream.qmltypes
+prefer :/GcsVideoStream/
+Main 1.0 Main.qml
+
